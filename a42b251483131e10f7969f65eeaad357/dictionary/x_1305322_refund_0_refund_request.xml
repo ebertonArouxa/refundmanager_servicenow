@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5dde6d1883131e10f7969f65eeaad3a7" extends="task" label="Refund Request" max_length="40" name="x_1305322_refund_0_refund_request" type="collection">
+        <element label="Refund Category" max_length="32" name="refund_category" reference="x_1305322_refund_0_refund_category" type="reference"/>
+        <element label="Amount BRL" max_length="40" name="amount_brl" type="currency"/>
+        <element label="Expense Date" max_length="40" name="expense_date" type="glide_date"/>
+        <element label="Amout USD" max_length="40" name="amout_usd" type="float"/>
+        <element label="Reproval Reason" max_length="5000" name="reproval_reason" type="string"/>
+    </element>
+</database>
