@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="amout_usd" table="x_1305322_refund_0_refund_request">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Amount USD</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>amout_usd</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">float</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1305322_refund_0_refund_request</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 16:49:07</sys_created_on>
+        <sys_id>bcafad5883131e10f7969f65eeaad396</sys_id>
+        <sys_name>Amount USD</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_update_name>sys_dictionary_x_1305322_refund_0_refund_request_amout_usd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:28:43</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundManager">a42b251483131e10f7969f65eeaad357</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_dictionary_x_1305322_refund_0_refund_request_amout_usd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="amout_usd" table="x_1305322_refund_0_refund_request"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Amount USD</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>amout_usd</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">float</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1305322_refund_0_refund_request</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-20 16:49:07</sys_created_on><sys_id>bcafad5883131e10f7969f65eeaad396</sys_id><sys_name>Amount USD</sys_name><sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package><sys_policy/><sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope><sys_update_name>sys_dictionary_x_1305322_refund_0_refund_request_amout_usd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 21:28:43</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1167262974</payload_hash>
+        <record_name>Refund Request.Amount USD</record_name>
+        <reverted_from/>
+        <source>b72dee9483571e10f7969f65eeaad334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 21:28:43</sys_created_on>
+        <sys_id>92397f2c839f5e10f7969f65eeaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948ac489500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:28:43</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>1a397f2c709f5e1078f57891cd9d4727</update_guid>
+        <update_guid_history>1a397f2c709f5e1078f57891cd9d4727:1167262974,49afed580b131e10445b3913591fd30a:-1307845448</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 21:31:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0a94b722a08b41a8817c39d042711f10</sys_id>
+        <sys_metadata>bcafad5883131e10f7969f65eeaad396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amount USD</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_parent display_value="Refund Request">5dde6d1883131e10f7969f65eeaad3a7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_scope_delete display_value="">0b500fed08454aa08d22f0305dcf8240</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1305322_refund_0_refund_request_amout_usd</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1305322_refund_0_refund_request_amout_usd">92397f2c839f5e10f7969f65eeaad328</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:31:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

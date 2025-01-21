@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>amout_usd</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 21:25:59</sys_created_on>
+        <sys_id>42983fe8839f5e10f7969f65eeaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amout_usd</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_update_name>sys_ui_policy_action_42983fe8839f5e10f7969f65eeaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:25:59</sys_updated_on>
+        <table>x_1305322_refund_0_refund_request</table>
+        <ui_policy display_value="Refund read only when completed">3e173f68839f5e10f7969f65eeaad317</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=42983fe8839f5e10f7969f65eeaad3ed"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundManager">a42b251483131e10f7969f65eeaad357</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_ui_policy_action_42983fe8839f5e10f7969f65eeaad3ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>amout_usd</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 21:25:59</sys_created_on><sys_id>42983fe8839f5e10f7969f65eeaad3ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>amout_usd</sys_name><sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package><sys_policy/><sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope><sys_update_name>sys_ui_policy_action_42983fe8839f5e10f7969f65eeaad3ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 21:25:59</sys_updated_on><table>x_1305322_refund_0_refund_request</table><ui_policy display_value="Refund read only when completed">3e173f68839f5e10f7969f65eeaad317</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=42983fe8839f5e10f7969f65eeaad3ed"/></record_update>]]></payload>
+        <payload_hash>231885674</payload_hash>
+        <record_name>amout_usd</record_name>
+        <reverted_from/>
+        <source>b72dee9483571e10f7969f65eeaad334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 21:25:59</sys_created_on>
+        <sys_id>0e987fe8839f5e10f7969f65eeaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948ac2071d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:25:59</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>02987fe8009f5e10f31f1705d623ba91</update_guid>
+        <update_guid_history>02987fe8009f5e10f31f1705d623ba91:231885674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 21:31:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>25fb1f46e081421680627c8d8dc64eb1</sys_id>
+        <sys_metadata>42983fe8839f5e10f7969f65eeaad3ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amout_usd</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_parent display_value="Refund read only when completed">3e173f68839f5e10f7969f65eeaad317</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_scope_delete display_value="">0b500fed08454aa08d22f0305dcf8240</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_42983fe8839f5e10f7969f65eeaad3ed</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_42983fe8839f5e10f7969f65eeaad3ed">0e987fe8839f5e10f7969f65eeaad391</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 21:31:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
