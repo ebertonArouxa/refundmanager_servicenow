@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 21:20:12</sys_created_on>
+        <sys_id>43d0458583d7de10f7969f65eeaad333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1305322_refund_0.rm_hr_managers</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_security_acl display_value="">8bd0458583d7de10f7969f65eeaad332</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_43d0458583d7de10f7969f65eeaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 21:20:12</sys_updated_on>
+        <sys_user_role display_value="x_1305322_refund_0.rm_hr_managers" name="x_1305322_refund_0.rm_hr_managers">352f715c83531e10f7969f65eeaad34e</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundManager">a42b251483131e10f7969f65eeaad357</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_security_acl_role_43d0458583d7de10f7969f65eeaad333</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-22 21:20:12</sys_created_on><sys_id>43d0458583d7de10f7969f65eeaad333</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1305322_refund_0.rm_hr_managers</sys_name><sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package><sys_policy/><sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope><sys_security_acl display_value="">8bd0458583d7de10f7969f65eeaad332</sys_security_acl><sys_update_name>sys_security_acl_role_43d0458583d7de10f7969f65eeaad333</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-22 21:20:12</sys_updated_on><sys_user_role display_value="x_1305322_refund_0.rm_hr_managers" name="x_1305322_refund_0.rm_hr_managers">352f715c83531e10f7969f65eeaad34e</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-235161044</payload_hash>
+        <record_name>.x_1305322_refund_0.rm_hr_managers</record_name>
+        <reverted_from/>
+        <source>b72dee9483571e10f7969f65eeaad334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 21:20:12</sys_created_on>
+        <sys_id>1bd0098583d7de10f7969f65eeaad347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948fe319ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 21:20:12</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>0fd0098503d7de103b1e8aba4c023f46</update_guid>
+        <update_guid_history>0fd0098503d7de103b1e8aba4c023f46:-235161044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1305322_refund_0.rm_hr_managers">7aa59141835bde10f7969f65eeaad3e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 22:51:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>665ceead41ee4372a6de37865e485f91</sys_id>
+        <sys_metadata>43d0458583d7de10f7969f65eeaad333</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1305322_refund_0.rm_hr_managers</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_scope_delete display_value="">0b500fed08454aa08d22f0305dcf8240</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_43d0458583d7de10f7969f65eeaad333</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_43d0458583d7de10f7969f65eeaad333">1bd0098583d7de10f7969f65eeaad347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 22:51:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

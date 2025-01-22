@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="RefundManager">dbe7826c83575e10f7969f65eeaad31e</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1305322_refund_0_refund_request">state=2^EQ<item display_value="Awaiting HR Resolver's Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Awaiting HR Resolver's Approval Refunds</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Refunds</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1305322_refund_0_refund_request</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1305322_refund_0.rm_hr_managers,x_1305322_refund_0.rm_hr_resolvers</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 13:57:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0af19ae483975e10f7969f65eeaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting HR Resolver's Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_update_name>sys_app_module_0af19ae483975e10f7969f65eeaad30e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 13:57:36</sys_updated_on>
+        <timeline_page/>
+        <title>Awaiting HR Resolver's Approval</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundManager">a42b251483131e10f7969f65eeaad357</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_app_module_0af19ae483975e10f7969f65eeaad30e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="RefundManager">dbe7826c83575e10f7969f65eeaad31e</application><assessment/><device_type/><filter table="x_1305322_refund_0_refund_request">state=2^EQ<item display_value="Awaiting HR Resolver's Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>Awaiting HR Resolver's Approval Refunds</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Refunds</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1305322_refund_0_refund_request</name><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1305322_refund_0.rm_hr_managers,x_1305322_refund_0.rm_hr_resolvers</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 13:57:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0af19ae483975e10f7969f65eeaad30e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Awaiting HR Resolver's Approval</sys_name><sys_overrides/><sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package><sys_policy/><sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope><sys_update_name>sys_app_module_0af19ae483975e10f7969f65eeaad30e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 13:57:36</sys_updated_on><timeline_page/><title>Awaiting HR Resolver's Approval</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1264171455</payload_hash>
+        <record_name>Awaiting HR Resolver's Approval</record_name>
+        <reverted_from/>
+        <source>b72dee9483571e10f7969f65eeaad334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 13:57:36</sys_created_on>
+        <sys_id>06f19ae483975e10f7969f65eeaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194892786920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 13:57:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0af19ae4ef975e10a5168e3675207610</update_guid>
+        <update_guid_history>0af19ae4ef975e10a5168e3675207610:1264171455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Awaiting HR Resolver's Approval">e62b6bf88313de10f7969f65eeaad33a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 15:05:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>38433eead1c84127b5352629e32ae501</sys_id>
+        <sys_metadata>0af19ae483975e10f7969f65eeaad30e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting HR Resolver's Approval</sys_name>
+        <sys_package display_value="RefundManager" source="x_1305322_refund_0">a42b251483131e10f7969f65eeaad357</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundManager">a42b251483131e10f7969f65eeaad357</sys_scope>
+        <sys_scope_delete display_value="">0b500fed08454aa08d22f0305dcf8240</sys_scope_delete>
+        <sys_update_name>sys_app_module_0af19ae483975e10f7969f65eeaad30e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0af19ae483975e10f7969f65eeaad30e">06f19ae483975e10f7969f65eeaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 15:05:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
