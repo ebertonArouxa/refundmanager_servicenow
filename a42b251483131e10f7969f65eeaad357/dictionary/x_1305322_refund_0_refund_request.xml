@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5dde6d1883131e10f7969f65eeaad3a7" extends="task" label="Refund Request" max_length="40" name="x_1305322_refund_0_refund_request" type="collection">
+        <element choice="1" label="USD integration state" max_length="40" name="usd_integrating_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integration Success" sequence="400" value="3"/>
+                <element inactive_on_update="false" label="Integration Failure" sequence="300" value="4"/>
+                <element inactive_on_update="false" label="Integrating" sequence="200" value="2"/>
+                <element inactive_on_update="false" label="Starting" sequence="100" value="1"/>
+            </choice>
+        </element>
         <element label="Refund Category" max_length="32" name="refund_category" reference="x_1305322_refund_0_refund_category" type="reference"/>
         <element label="Amount BRL" max_length="40" name="amount_brl" type="currency"/>
         <element label="Expense Date" max_length="40" name="expense_date" type="glide_date"/>
+        <element label="Integration error message" max_length="1000" name="integration_error_message" type="string"/>
         <element label="Reproval Reason" max_length="5000" name="reproval_reason" type="string"/>
         <element label="Amount USD" max_length="40" name="amount_usd" type="float"/>
     </element>
